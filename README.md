@@ -1,0 +1,1 @@
+### react-native, redux, react-navigation搭建的一个App框架
